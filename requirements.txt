@@ -1,0 +1,8 @@
+requests
+tqdm
+click 
+dotenv
+langchain
+langchain-anthropic
+upstash-vector
+streamlit
