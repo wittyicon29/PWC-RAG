@@ -6,3 +6,5 @@ langchain
 langchain-anthropic
 upstash-vector
 streamlit
+huggingface
+sentence-transformers
