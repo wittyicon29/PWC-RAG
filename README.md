@@ -53,3 +53,6 @@ On the front-end side, this assistant will be integrated into an interactive and
  - You can use any Embedding model supported by [Langchain](https://python.langchain.com/docs/integrations/text_embedding)
  - You can try different LLMs on [Langchain](https://python.langchain.com/docs/integrations/llms/) to evaluate the RAG system
  - The app is ready to deploy on Google Cloud Run using docker or Streamlit cloud.
+
+### Reference 
+[How To Build an LLM-Powered App To Chat with PapersWithCode](https://towardsdatascience.com/how-to-build-an-llm-powered-app-to-chat-with-paperswithcode-09ddd9ee753a#:~:text=Prior%20to%20embedding%20the%20documents,up%20with%20over%2011K%20splits.)
