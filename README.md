@@ -1,5 +1,5 @@
-# PWC-RAG
-PWC RAG is a easier method to scan through tons of ML research by just hitting a button. A RAG system that mines large amount of information easily. You’ll ask it your questions in natural language and it’ll answer according to relevant papers it finds on [Papers With Code](https://paperswithcode.com/).
+# RAG For Papers with Code
+RAG For Papers with Code is a easier method to scan through tons of ML research by just hitting a button. A RAG system that mines large amount of information easily. You’ll ask it your questions in natural language and it’ll answer according to relevant papers it finds on [Papers With Code](https://paperswithcode.com/).
 
 On the backend side, the system is powered with a Retrieval Augmented Generation (RAG) framework that relies on a scalable serverless vector database called Upstash, for embeddings we are using BGE models on the HuggingFace, and Mixtral-8x7B-Instruct-v0.1 as LLM from HuggingFace.
 
